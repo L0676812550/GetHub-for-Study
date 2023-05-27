@@ -1,5 +1,4 @@
-# Object file
-*.o
+
 # Created by https://www.toptal.com/developers/gitignore/api/osx
 # Edit at https://www.toptal.com/developers/gitignore?templates=osx
 
@@ -33,5 +32,3 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/osx
-# Ada Library Information
-*.ali
